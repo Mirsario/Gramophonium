@@ -1,0 +1,8 @@
+{
+	"profiles": {
+		"Gramophonium.CommandLine": {
+			"commandName": "Project",
+			"workingDirectory": "."
+		}
+	}
+}
